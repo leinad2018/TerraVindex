@@ -1,0 +1,79 @@
+Class System and Progression
+1. Mage
+2. Ranger
+3. Fighter
+4. Tanky Boi
+
+Progression will be centered around whichever class that you have chosen; 
+however, you will be able to unlock attributes from other classes.
+
+Each class is tied to a certain attribute
+1. Magic (duh)
+2. Ranged attack
+3. Melee attack
+4. Defense
+
+Each of the classes is also tied to a creature type that will lead progression 
+for that tree
+1. Magical Creatures
+2. ??? (Aerial creatures)
+3. Monsters
+4. Beasts
+
+Each class will have a tech tree that increases their abilities in each of their attribute.
+Every class can unlock the basic nodes on every tree, but they can only
+unlock the advanced nodes on their own tree.
+
+Nodes on the tree will be hidden until you have defeated the creature that
+corresponds to the node. Once the creature is defeated, the node and all 
+nodes before it will be shown. Even if a node is shown, it is not active
+unless the necessary creature has been killed. Nodes are also level capped,
+so unlocking a node requires your level to be high eneough as well. 
+TLDR: Nodes can be in three states (hidden, shown, unlocked). Defeate a
+creature to show the node. Unlock the node by being high enough level.
+
+
+
+Items and Equipment
+
+Items will be sorted by class and will come in the following categories:
+1. Head Armor
+2. Chest Armor
+3. Leg Armor
+4. Main Weapons
+5. Class Thing
+6. Probably more things but that can come later
+
+A cool idea would to have the main weapon be non-material and just level up with the tech tree.
+Then armor and possible accesories would be tradeable and craftable. Another idea is to have the
+main weapon follow that route and have a secondary weapon that is just an item like armors.
+
+Equipment is the same accross all classes:
+1. Resource gathering tools
+2. Potions
+3. Maybe something else idk
+
+
+
+Getting New Items
+
+There are two possible ways that we could get new basic items in the game.
+
+1. Each enemy defeated has a chance to drop equipment
+This would offload much of the grind for gear onto every day activities in the game.
+There would be less grinding of materials and such, but we would have to tune drops
+with progression in the game. 
+
+2. Craft new gear by using resources gathered in game
+Crafting is a fun time and adds a lot to the game, but it may become too much of a 
+grind if our crafting system is bad. There are also a lot of players that don't want
+to gather resources and craft things.
+
+There may be a compromise between these two things, or we may just want to pick one
+of the options. Personally, I don't love option 1 because it makes the amount of items
+that we need to make much higher, and makes getting a new item feel less meaningfull.
+
+Better gear will be given from other factors of the game:
+1. Quests completed
+2. Boss creatures defeated
+3. 
