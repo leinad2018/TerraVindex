@@ -1,0 +1,4 @@
+InstanceSwitching
+Instances can register listener objects that hold all of the listeners that are
+used for this instance. Whenever a session transfers to a new instance, the listeners
+are replaced with the listener object for the new instance.
